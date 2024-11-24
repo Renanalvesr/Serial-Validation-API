@@ -1,0 +1,3 @@
+com\validation\serial_validation\service\SerialServiceTest.class
+com\validation\serial_validation\controller\SerialControllerTest.class
+com\validation\serial_validation\SerialValidationApplicationTests.class

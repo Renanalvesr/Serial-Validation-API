@@ -1,0 +1,9 @@
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\controller\SerialController.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\entity\Serial.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\errors\CustomException.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\errors\ErrorResponse\ErrorResponse.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\errors\GlobalExceptionHandler.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\errors\SerialNotFoundException.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\repository\SerialRepository.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\SerialValidationApplication.java
+C:\Users\alves\Downloads\Dachser-test\Back\serial-validation\src\main\java\com\validation\serial_validation\service\SerialService.java

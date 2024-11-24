@@ -1,0 +1,10 @@
+com\validation\serial_validation\entity\Serial$Status.class
+com\validation\serial_validation\errors\CustomException.class
+com\validation\serial_validation\errors\ErrorResponse\ErrorResponse.class
+com\validation\serial_validation\SerialValidationApplication.class
+com\validation\serial_validation\repository\SerialRepository.class
+com\validation\serial_validation\errors\GlobalExceptionHandler.class
+com\validation\serial_validation\controller\SerialController.class
+com\validation\serial_validation\entity\Serial.class
+com\validation\serial_validation\errors\SerialNotFoundException.class
+com\validation\serial_validation\service\SerialService.class
